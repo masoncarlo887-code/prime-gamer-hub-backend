@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1779043936240,
+    "orderNumber": 8649,
+    "date": "17/05/2026, 19:52:16",
+    "items": [
+      {
+        "name": "DualSense Wireless Controller",
+        "quantity": 1,
+        "price": 85000
+      }
+    ],
+    "total": 85000,
+    "buyer": "admin"
+  },
+  {
+    "id": 1779047512145,
+    "orderNumber": 9030,
+    "date": "17/05/2026, 20:51:52",
+    "items": [
+      {
+        "name": "Marvel Spider-Man 2",
+        "quantity": 1,
+        "price": 77998
+      }
+    ],
+    "total": 77998,
+    "buyer": "admin"
+  }
+]
