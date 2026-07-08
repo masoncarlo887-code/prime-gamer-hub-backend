@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Servir arquivos estáticos do frontend
-app.use(express.static(path.join(__dirname, 'frontend')));
+app.use(express.static(path.join(process.cwd(), 'frontend')));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 // ==================== GARANTIR PASTAS NECESSÁRIAS ====================
